@@ -5,7 +5,7 @@ A floating ✦ bubble over WhatsApp. Tap it in a customer chat → it reads the 
 Same logic as the D Byk Reply Assistant Chrome extension.
 
 ## Get the app
-Every push to `main` builds the app on GitHub: **Actions → latest "Build APK" run → Artifacts → DBykReply-apk**. Unzip it to get `DBykReply.apk`.
+Every push to `main` builds the app and publishes it on **Releases → latest** (github.com/akshaymehtaDBS/dbyk-reply-app/releases/latest). Open that page on the phone (signed in to GitHub) and tap **DBykReply.apk**.
 
 ## Install on the phone
 1. Copy `DBykReply.apk` to the phone and open it. Allow "Install unknown apps" for your browser/files app when asked.
