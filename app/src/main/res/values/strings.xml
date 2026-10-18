@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_description">Shows a reply bubble over WhatsApp. When you tap it, it reads the open chat, drafts a reply with Claude using D Byk Store\'s Shopify and Zoho data, and types the draft into the message box. It never sends anything — you review and press send.</string>
+</resources>
